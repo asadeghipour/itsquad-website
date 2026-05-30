@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Backup and disaster recovery</title>
+  <desc id="desc">Cloud backup, protected files, and recovery copies illustration.</desc>
+
+  <rect width="600" height="400" rx="18" fill="#f8fbff"/>
+  <rect x="70" y="62" width="460" height="276" rx="20" fill="#ffffff" stroke="#dbe7f5" stroke-width="3"/>
+
+  <path d="M306 108c48 0 88 33 98 78 37 6 66 36 66 74 0 42-37 76-83 76H206c-47 0-84-34-84-76 0-36 26-66 62-74 10-45 50-78 98-78 8 0 16 1 24 3z" fill="#dbeafe" stroke="#93c5fd" stroke-width="4"/>
+
+  <path d="M300 154v82" stroke="#2563eb" stroke-width="12" stroke-linecap="round"/>
+  <path d="M264 204l36 36 36-36" fill="none" stroke="#2563eb" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="112" y="276" width="98" height="50" rx="9" fill="#eff6ff" stroke="#bfdbfe" stroke-width="3"/>
+  <rect x="251" y="276" width="98" height="50" rx="9" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="3"/>
+  <rect x="390" y="276" width="98" height="50" rx="9" fill="#fff7ed" stroke="#fed7aa" stroke-width="3"/>
+
+  <path d="M136 302l13 13 28-30" fill="none" stroke="#16a34a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M275 302l13 13 28-30" fill="none" stroke="#16a34a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M414 302l13 13 28-30" fill="none" stroke="#16a34a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M182 276c26-22 56-36 88-42" fill="none" stroke="#94a3b8" stroke-width="3" stroke-dasharray="8 8"/>
+  <path d="M300 276v-36" fill="none" stroke="#94a3b8" stroke-width="3" stroke-dasharray="8 8"/>
+  <path d="M418 276c-26-22-56-36-88-42" fill="none" stroke="#94a3b8" stroke-width="3" stroke-dasharray="8 8"/>
+
+  <text x="300" y="366" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0b1220" text-anchor="middle">Backup &amp; Disaster Recovery</text>
+</svg>

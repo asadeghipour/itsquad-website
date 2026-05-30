@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile app interface planning</title>
+  <desc id="desc">Mobile app screen mockups, workflow cards, and launch planning illustration.</desc>
+  <rect width="600" height="400" rx="18" fill="#f8fbff"/>
+  <rect x="72" y="62" width="456" height="276" rx="20" fill="#fff" stroke="#dbe7f5" stroke-width="3"/>
+  <rect x="124" y="92" width="128" height="222" rx="24" fill="#0f172a"/>
+  <rect x="138" y="118" width="100" height="166" rx="12" fill="#eff6ff"/>
+  <circle cx="188" cy="298" r="7" fill="#94a3b8"/>
+  <rect x="154" y="140" width="68" height="12" rx="6" fill="#2563eb"/>
+  <rect x="154" y="170" width="52" height="10" rx="5" fill="#93c5fd"/>
+  <rect x="154" y="198" width="68" height="42" rx="8" fill="#dbeafe"/>
+  <rect x="154" y="252" width="68" height="12" rx="6" fill="#0f766e"/>
+  <rect x="318" y="104" width="144" height="50" rx="10" fill="#eff6ff" stroke="#bfdbfe" stroke-width="3"/>
+  <rect x="318" y="176" width="144" height="50" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="3"/>
+  <rect x="318" y="248" width="144" height="50" rx="10" fill="#fff7ed" stroke="#fed7aa" stroke-width="3"/>
+  <path d="M252 176h48M252 232h48" stroke="#64748b" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 8"/>
+  <text x="390" y="135" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#2563eb" text-anchor="middle">Prototype</text>
+  <text x="390" y="207" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#0f766e" text-anchor="middle">Workflow</text>
+  <text x="390" y="279" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#b7791f" text-anchor="middle">Launch</text>
+  <text x="300" y="366" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0b1220" text-anchor="middle">Mobile App Planning</text>
+</svg>

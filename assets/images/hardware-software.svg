@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Hardware and software solutions</title>
+  <desc id="desc">Business computer, server, printer, software licenses, and approved setup illustration.</desc>
+
+  <rect width="600" height="400" rx="18" fill="#f8fbff"/>
+  <rect x="66" y="62" width="468" height="274" rx="20" fill="#ffffff" stroke="#dbe7f5" stroke-width="3"/>
+
+  <rect x="96" y="114" width="86" height="144" rx="8" fill="#0f172a"/>
+  <rect x="112" y="132" width="54" height="12" rx="4" fill="#334155"/>
+  <rect x="112" y="160" width="54" height="12" rx="4" fill="#334155"/>
+  <rect x="112" y="188" width="54" height="12" rx="4" fill="#334155"/>
+  <circle cx="160" cy="224" r="5" fill="#22c55e"/>
+  <circle cx="140" cy="224" r="5" fill="#f59e0b"/>
+
+  <rect x="220" y="122" width="132" height="88" rx="10" fill="#1e293b"/>
+  <rect x="236" y="138" width="100" height="54" rx="7" fill="#dbeafe"/>
+  <rect x="270" y="210" width="32" height="24" fill="#64748b"/>
+  <rect x="246" y="234" width="80" height="12" rx="6" fill="#94a3b8"/>
+  <path d="M262 165h48" stroke="#2563eb" stroke-width="7" stroke-linecap="round"/>
+  <path d="M262 181h32" stroke="#60a5fa" stroke-width="7" stroke-linecap="round"/>
+
+  <rect x="398" y="132" width="104" height="92" rx="10" fill="#eef2f7" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="416" y="112" width="68" height="34" rx="5" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="420" y="158" width="60" height="10" rx="5" fill="#2563eb"/>
+  <rect x="420" y="180" width="60" height="10" rx="5" fill="#94a3b8"/>
+  <rect x="420" y="214" width="60" height="28" rx="5" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+
+  <g transform="translate(210 266)">
+    <rect x="0" y="0" width="84" height="44" rx="8" fill="#2563eb"/>
+    <text x="42" y="28" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Office</text>
+    <rect x="96" y="0" width="92" height="44" rx="8" fill="#0f766e"/>
+    <text x="142" y="28" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Security</text>
+    <rect x="200" y="0" width="88" height="44" rx="8" fill="#b7791f"/>
+    <text x="244" y="28" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Backup</text>
+  </g>
+
+  <circle cx="118" cy="292" r="15" fill="#22c55e"/>
+  <path d="M111 292l5 5 10-12" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="118" y="322" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#0b1220" text-anchor="middle">Approved</text>
+
+  <text x="300" y="360" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0b1220" text-anchor="middle">Hardware &amp; Software Solutions</text>
+</svg>

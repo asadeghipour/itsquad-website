@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Security camera monitoring</title>
+  <desc id="desc">IP cameras, monitoring screen, and secure recording system illustration.</desc>
+  <rect width="600" height="400" rx="18" fill="#f8fbff"/>
+  <rect x="72" y="62" width="456" height="276" rx="20" fill="#fff" stroke="#dbe7f5" stroke-width="3"/>
+  <rect x="178" y="128" width="244" height="138" rx="14" fill="#0f172a"/>
+  <rect x="198" y="150" width="88" height="42" rx="7" fill="#dbeafe"/>
+  <rect x="314" y="150" width="88" height="42" rx="7" fill="#dbeafe"/>
+  <rect x="198" y="210" width="88" height="42" rx="7" fill="#dbeafe"/>
+  <rect x="314" y="210" width="88" height="42" rx="7" fill="#dbeafe"/>
+  <rect x="270" y="266" width="60" height="30" fill="#64748b"/>
+  <rect x="230" y="296" width="140" height="12" rx="6" fill="#94a3b8"/>
+  <path d="M128 118h92" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+  <rect x="134" y="132" width="70" height="42" rx="8" fill="#2563eb"/>
+  <circle cx="170" cy="153" r="12" fill="#dbeafe"/>
+  <path d="M472 118h-92" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+  <rect x="396" y="132" width="70" height="42" rx="8" fill="#0f766e"/>
+  <circle cx="430" cy="153" r="12" fill="#d1fae5"/>
+  <path d="M206 172l42 48M352 172l36 54" stroke="#60a5fa" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+  <text x="300" y="366" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0b1220" text-anchor="middle">Camera Monitoring</text>
+</svg>

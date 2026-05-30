@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f0f4f8"/>
+  
+  <!-- Shield outline -->
+  <path d="M 300 80 L 480 140 L 480 240 Q 480 300 300 340 Q 120 300 120 240 L 120 140 Z" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
+  
+  <!-- Shield inner -->
+  <path d="M 300 95 L 460 145 L 460 240 Q 460 290 300 325 Q 140 290 140 240 L 140 145 Z" fill="#ec7063"/>
+  
+  <!-- Checkmark inside shield -->
+  <polyline points="260,220 290,250 340,180" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Lock icon on shield -->
+  <g transform="translate(300, 150)">
+    <rect x="-20" y="0" width="40" height="30" rx="3" fill="white" opacity="0.2"/>
+    <circle cx="0" cy="15" r="6" fill="white" opacity="0.3"/>
+  </g>
+  
+  <!-- Security indicators -->
+  <g transform="translate(80, 300)">
+    <circle cx="10" cy="10" r="6" fill="#27ae60"/>
+    <text x="25" y="14" font-size="12" fill="#2c3e50">Protected</text>
+  </g>
+  
+  <g transform="translate(300, 300)">
+    <circle cx="10" cy="10" r="6" fill="#27ae60"/>
+    <text x="25" y="14" font-size="12" fill="#2c3e50">Monitored</text>
+  </g>
+  
+  <!-- Label -->
+  <text x="300" y="370" font-size="18" font-weight="bold" fill="#2c3e50" text-anchor="middle">Cybersecurity Protection</text>
+</svg>

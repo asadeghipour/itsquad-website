@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">VoIP and IP phone systems</title>
+  <desc id="desc">Office phone, mobile phone, headset, and cloud call routing illustration.</desc>
+
+  <rect width="600" height="400" rx="18" fill="#f8fbff"/>
+  <rect x="70" y="64" width="460" height="270" rx="20" fill="#ffffff" stroke="#dbe7f5" stroke-width="3"/>
+
+  <path d="M300 92c54 0 98 38 106 88 35 8 61 37 61 72 0 42-37 76-83 76H218c-47 0-85-34-85-76 0-35 26-64 61-72 8-50 52-88 106-88z" fill="#eef6ff" stroke="#bfdbfe" stroke-width="3"/>
+
+  <rect x="108" y="154" width="118" height="132" rx="14" fill="#0f172a"/>
+  <rect x="126" y="174" width="82" height="34" rx="7" fill="#dbeafe"/>
+  <circle cx="142" cy="231" r="7" fill="#60a5fa"/>
+  <circle cx="168" cy="231" r="7" fill="#60a5fa"/>
+  <circle cx="194" cy="231" r="7" fill="#60a5fa"/>
+  <circle cx="142" cy="256" r="7" fill="#94a3b8"/>
+  <circle cx="168" cy="256" r="7" fill="#94a3b8"/>
+  <circle cx="194" cy="256" r="7" fill="#94a3b8"/>
+
+  <rect x="265" y="136" width="78" height="154" rx="16" fill="#1e293b"/>
+  <rect x="275" y="154" width="58" height="104" rx="8" fill="#eff6ff"/>
+  <circle cx="304" cy="272" r="7" fill="#94a3b8"/>
+  <path d="M288 198h32M288 218h32M288 238h22" stroke="#2563eb" stroke-width="6" stroke-linecap="round"/>
+
+  <path d="M443 154c-44 0-80 36-80 80v20c0 11 9 20 20 20h24v-60h-24v-2c0-33 27-60 60-60s60 27 60 60v2h-24v60h24c11 0 20-9 20-20v-20c0-44-36-80-80-80z" fill="#0f766e"/>
+  <path d="M424 286c11 12 29 15 46 6" fill="none" stroke="#0f766e" stroke-width="8" stroke-linecap="round"/>
+
+  <path d="M226 218c30-24 62-34 97-30" fill="none" stroke="#2563eb" stroke-width="4" stroke-linecap="round" stroke-dasharray="9 9"/>
+  <path d="M344 202c30 2 54 12 74 31" fill="none" stroke="#2563eb" stroke-width="4" stroke-linecap="round" stroke-dasharray="9 9"/>
+
+  <circle cx="300" cy="95" r="10" fill="#22c55e"/>
+  <circle cx="217" cy="219" r="8" fill="#22c55e"/>
+  <circle cx="423" cy="233" r="8" fill="#22c55e"/>
+
+  <text x="300" y="360" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0b1220" text-anchor="middle">VoIP &amp; IP Phone Systems</text>
+</svg>
