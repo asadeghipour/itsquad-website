@@ -17,13 +17,13 @@
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="container nav-wrap">
-    <a class="brand" href="${base}/" aria-label="IT Squad LLC Home">
+    <a class="brand" href="${base}" aria-label="IT Squad LLC Home">
       <span class="brand-badge" aria-hidden="true">IT</span>
       <span class="brand-text">Squad</span>
     </a>
 
     <nav class="nav" aria-label="Primary">
-      <a class="nav-link" href="${base}/">Home</a>
+      <a class="nav-link" href="${base}">Home</a>
       <a class="nav-link" href="${base}contact">Contact</a>
 
       <details class="dropdown">
@@ -107,7 +107,7 @@
     <div>
       <h4>Pages</h4>
       <ul class="footer-links">
-        <li><a href="${base}/">Home</a></li>
+        <li><a href="${base}">Home</a></li>
         <li><a href="${base}services">Services</a></li>
         <li><a href="${base}aboutus">About Us</a></li>
         <li><a href="${base}contact">Contact</a></li>
