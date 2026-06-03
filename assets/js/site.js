@@ -5,9 +5,12 @@
     if (
       path.indexOf("/industries/") !== -1 ||
       path.indexOf("/products/") !== -1 ||
-      path.indexOf("/webdesign/") !== -1
+      path.indexOf("/webdesign/") !== -1 ||
+      path.indexOf("/services") !== -1 ||
+      path.indexOf("/contact") !== -1 ||
+      path.indexOf("/aboutus") !== -1
     ) {
-      return "../";
+      return "";
     }
     return "";
   }
