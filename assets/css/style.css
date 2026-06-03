@@ -168,9 +168,12 @@ img{ max-width:100%; display:block; }
 .industry-sub{
   text-align:center;
   margin:8px auto 14px;
-  color:var(--muted);
-  font-size:13.5px;
+  color:var(--text);
+  font-size:17px;
+  font-weight:700;
   max-width:62ch;
+  letter-spacing:0.5px;
+  line-height:1.6;
 }
 .pill-row{
   margin-top:12px;
