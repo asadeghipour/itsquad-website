@@ -24,7 +24,7 @@
 
     <nav class="nav" aria-label="Primary">
       <a class="nav-link" href="${base}/">Home</a>
-      <a class="nav-link" href="${base}contact.html">Contact</a>
+      <a class="nav-link" href="${base}contact">Contact</a>
 
       <details class="dropdown">
         <summary class="nav-link nav-link--dropdown">
@@ -32,15 +32,15 @@
         </summary>
 
         <div class="dropdown-panel" role="menu" aria-label="Services menu">
-          <a role="menuitem" href="${base}services.html#managed-it">Managed IT</a>
-          <a role="menuitem" href="${base}services.html#cybersecurity">Cybersecurity</a>
-          <a role="menuitem" href="${base}services.html#microsoft-365">Microsoft 365</a>
-          <a role="menuitem" href="${base}services.html#backup-dr">Backup &amp; DR</a>
-          <a role="menuitem" href="${base}services.html#network-cabling">Network &amp; Cabling</a>
-          <a role="menuitem" href="${base}services.html#ip-phones">IP Phones</a>
-          <a role="menuitem" href="${base}services.html#security-cameras">Security Cameras</a>
-          <a role="menuitem" href="${base}services.html#remote-work">Remote Work</a>
-          <a role="menuitem" href="${base}services.html#hardware-software">Hardware &amp; Software</a>
+          <a role="menuitem" href="${base}services#managed-it">Managed IT</a>
+          <a role="menuitem" href="${base}services#cybersecurity">Cybersecurity</a>
+          <a role="menuitem" href="${base}services#microsoft-365">Microsoft 365</a>
+          <a role="menuitem" href="${base}services#backup-dr">Backup &amp; DR</a>
+          <a role="menuitem" href="${base}services#network-cabling">Network &amp; Cabling</a>
+          <a role="menuitem" href="${base}services#ip-phones">IP Phones</a>
+          <a role="menuitem" href="${base}services#security-cameras">Security Cameras</a>
+          <a role="menuitem" href="${base}services#remote-work">Remote Work</a>
+          <a role="menuitem" href="${base}services#hardware-software">Hardware &amp; Software</a>
         </div>
       </details>
 
@@ -50,10 +50,10 @@
         </summary>
 
         <div class="dropdown-panel" role="menu" aria-label="Products menu">
-          <a role="menuitem" href="${base}products/servers.html">Servers</a>
-          <a role="menuitem" href="${base}products/computers.html">Computers</a>
-          <a role="menuitem" href="${base}products/printers.html">Printers</a>
-          <a role="menuitem" href="${base}products/accessories.html">Computer Accessories</a>
+          <a role="menuitem" href="${base}products/servers">Servers</a>
+          <a role="menuitem" href="${base}products/computers">Computers</a>
+          <a role="menuitem" href="${base}products/printers">Printers</a>
+          <a role="menuitem" href="${base}products/accessories">Computer Accessories</a>
         </div>
       </details>
 
@@ -63,10 +63,10 @@
         </summary>
 
         <div class="dropdown-panel" role="menu" aria-label="Web Design menu">
-          <a role="menuitem" href="${base}webdesign/website-design.html">Website Design &amp; Development</a>
-          <a role="menuitem" href="${base}webdesign/wordpress.html">WordPress Development</a>
-          <a role="menuitem" href="${base}webdesign/mobile-app.html">Mobile App Development</a>
-          <a role="menuitem" href="${base}webdesign/marketing.html">Digital Marketing &amp; Local SEO</a>
+          <a role="menuitem" href="${base}webdesign/website-design">Website Design &amp; Development</a>
+          <a role="menuitem" href="${base}webdesign/wordpress">WordPress Development</a>
+          <a role="menuitem" href="${base}webdesign/mobile-app">Mobile App Development</a>
+          <a role="menuitem" href="${base}webdesign/marketing">Digital Marketing &amp; Local SEO</a>
         </div>
       </details>
     </nav>
@@ -84,10 +84,10 @@
     </p>
 
     <div class="pill-row" aria-label="Industries we support">
-      <a class="pill-chip" href="${base}industries/healthcare.html">Healthcare practices</a>
-      <a class="pill-chip" href="${base}industries/law-offices.html">Law offices</a>
-      <a class="pill-chip" href="${base}industries/professional-services.html">Professional services</a>
-      <a class="pill-chip" href="${base}industries/small-business.html">Small business &amp; multi-site</a>
+      <a class="pill-chip" href="${base}industries/healthcare">Healthcare practices</a>
+      <a class="pill-chip" href="${base}industries/law-offices">Law offices</a>
+      <a class="pill-chip" href="${base}industries/professional-services">Professional services</a>
+      <a class="pill-chip" href="${base}industries/small-business">Small business &amp; multi-site</a>
     </div>
   </div>
 </section>`;
@@ -108,9 +108,9 @@
       <h4>Pages</h4>
       <ul class="footer-links">
         <li><a href="${base}/">Home</a></li>
-        <li><a href="${base}services.html">Services</a></li>
-        <li><a href="${base}aboutus.html">About Us</a></li>
-        <li><a href="${base}contact.html">Contact</a></li>
+        <li><a href="${base}services">Services</a></li>
+        <li><a href="${base}aboutus">About Us</a></li>
+        <li><a href="${base}contact">Contact</a></li>
       </ul>
     </div>
 
