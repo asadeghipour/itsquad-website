@@ -2,16 +2,14 @@
 (function () {
   function getBasePath() {
     var path = window.location.pathname.replace(/\\/g, "/");
-    if (
-      path.indexOf("/industries/") !== -1 ||
-      path.indexOf("/products/") !== -1 ||
-      path.indexOf("/webdesign/") !== -1 ||
-      path.indexOf("/services") !== -1 ||
-      path.indexOf("/contact") !== -1 ||
-      path.indexOf("/aboutus") !== -1
-    ) {
-      return "";
+    // Check if we're in a nested subdirectory (2+ levels deep)
+    var pathParts = path.split("/").filter(function(p) { return p.length > 0; });
+    
+    // If we have 2 or more path segments, we're in a subdirectory
+    if (pathParts.length >= 2) {
+      return "../";
     }
+    // Otherwise we're at root level
     return "";
   }
 
